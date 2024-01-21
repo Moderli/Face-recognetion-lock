@@ -1,6 +1,3 @@
-Certainly! Here's a plain text version that you can copy and paste into your README.txt:
-
-```
 # FaceLock
 
 FaceLock is a simple Python script that allows users to lock and unlock files using face recognition. It utilizes the face_recognition library for face detection and encoding.
@@ -55,6 +52,6 @@ FaceLock is a simple Python script that allows users to lock and unlock files us
 ## License
 
 This project is licensed under the [MIT License](LICENSE).
-```
+
 
 Replace "yourusername" in the clone URL with your actual GitHub username. You may also need to adjust the installation instructions based on your specific environment. Feel free to customize the README to better suit your project.
