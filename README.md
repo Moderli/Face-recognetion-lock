@@ -53,5 +53,3 @@ FaceLock is a simple Python script that allows users to lock and unlock files us
 
 This project is licensed under the [MIT License](LICENSE).
 
-
-Replace "yourusername" in the clone URL with your actual GitHub username. You may also need to adjust the installation instructions based on your specific environment. Feel free to customize the README to better suit your project.
