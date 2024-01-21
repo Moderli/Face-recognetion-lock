@@ -1,0 +1,7 @@
+opencv-python>=4.5.3
+face-recognition>=1.3.0
+pickle
+cv2
+base64
+ast
+numpy
