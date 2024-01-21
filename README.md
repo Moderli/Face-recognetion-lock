@@ -32,7 +32,7 @@ FaceLock is a simple Python script that allows users to lock and unlock files us
 3. Run the main script:
 
    ```bash
-   python main.py
+   python lock.py
    ```
 
 4. Follow the on-screen instructions to register your face, lock, and unlock files.
