@@ -19,8 +19,8 @@ FaceLock is a simple Python script that allows users to lock and unlock files us
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/FaceLock.git
-   cd FaceLock
+   git clone https://github.com/Moderli/Face-recognetion-lock.git
+   cd Face-recognetion-lock
    ```
 
 2. Install dependencies:
